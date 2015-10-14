@@ -1,1 +1,24 @@
 /* Fill me with styles! */
+header {
+  color: white;
+  background-image: url('city.jpg');
+  background-size: 1300px;
+  text-align: center;
+  font-size: 50px;
+  font-style: italic;
+  margin-top: auto;
+  padding-top: 3cm;
+  padding-bottom: 5cm;
+}
+h2 {
+    font-size: 30px;
+}
+.about {
+  text-align: justify;
+  margin-left: auto;
+  padding-top: 1cm;
+
+
+
+
+}
